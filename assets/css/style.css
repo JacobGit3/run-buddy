@@ -23,6 +23,7 @@ header h1 {
 /* all <a> header elements text color */
 header a {
     color: #fce138;
+    text-decoration: none;
 }
 
 /* formatting for the nav section */
@@ -117,7 +118,7 @@ section {
 
 /* Hero Form input Style */
 .form-input {
-    border: 1px;
+    border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
     font-size: 16px;
