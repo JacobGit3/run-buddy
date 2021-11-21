@@ -12,3 +12,5 @@ https://jacobgit3.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jacob Liberty]
+
+### ©️2019 Run Buddy, Inc 
